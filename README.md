@@ -1,0 +1,2 @@
+# belajar-list
+BELAJAR  LIST/ARRAY/LARIK
